@@ -1,1 +1,1 @@
-# Customer-lifetime-value-prediction
+# Real-estate-price-prediction
